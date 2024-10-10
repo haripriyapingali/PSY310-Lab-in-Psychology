@@ -1,0 +1,3 @@
+﻿trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,num_distr,target.started,mouse.started,fixation.started,trial.stopped,mouse.x,mouse.y,mouse.leftButton,mouse.midButton,mouse.rightButton,mouse.time,mouse.clicked_name,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+0,0,0,0,0.03143550000004325,,0.01352016700002423,5,0.03143550000004325,0.023047375000260217,0.03143550000004325,8.670480458999918,[-0.2966666666666667],[-0.43166666666666664],[1],[0],[0],[8.647117792000245],[],989290,001,2024-10-04_11h46.51.928,visual search task ,2024.1.5,None,2024-10-04 11h46.56.612057 +0530,
+,,,,8.684165084000142,,8.67109229200014,5,8.684165084000142,0.0078015839999352465,8.684165084000142,,,,,,,,,,,,,,,,

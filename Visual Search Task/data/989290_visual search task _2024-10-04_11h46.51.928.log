@@ -1,0 +1,159 @@
+4.5458 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+4.5468 	INFO 	Loaded monitor calibration from ['2024_08_08 22:40']
+4.7007 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117adc40>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117adbe0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117ad9d0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8b144e5ee0>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 300.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.7008 	EXP 	window1: backgroundImage = ''
+4.7008 	EXP 	window1: backgroundFit = 'none'
+4.7009 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117add60>
+4.7011 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117add60>
+4.7031 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117add60>
+4.7035 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117add60>
+4.7083 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7088 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7094 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7101 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7107 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7110 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7115 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7122 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7123 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7125 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7130 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7135 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7140 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7145 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7149 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7154 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7159 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7161 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7164 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7171 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7173 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7175 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.7203 	DEBUG 	Upload of Texture Font fontname complete
+4.7224 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117add60>
+4.7225 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117add60>
+4.7229 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117add60>
+4.7233 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7f8b117add60>
+4.7262 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7270 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7276 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7278 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.7297 	DEBUG 	Upload of Texture Font fontname complete
+4.7319 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.7319 	EXP 	window1: recordFrameIntervals = False
+4.9037 	EXP 	window1: recordFrameIntervals = True
+5.7517 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+5.7518 	EXP 	window1: mouseVisible = True
+5.7522 	EXP 	window1: mouseVisible = True
+5.7524 	EXP 	window1: mouseVisible = True
+5.7535 	EXP 	window1: mouseVisible = True
+5.7544 	EXP 	window1: mouseVisible = True
+5.8155 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8159 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8166 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8175 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8184 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8192 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8196 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8203 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8211 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8218 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8220 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.8244 	DEBUG 	Upload of Texture Font fontname complete
+5.8267 	EXP 	window1: mouseVisible = True
+5.8269 	EXP 	window1: mouseVisible = True
+5.8273 	EXP 	window1: mouseVisible = True
+5.8277 	EXP 	window1: mouseVisible = True
+5.8565 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+7.4484 	INFO 	keyboard.Keyboard is using iohub backend.
+7.4484 	EXP 	visual search task : status = STARTED
+7.4488 	EXP 	window1: mouseVisible = True
+7.4700 	EXP 	Created target = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='target', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='T', units='height', win=Window(...), wrapWidth=1)
+7.4702 	EXP 	window1: mouseVisible = True
+7.4720 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0134 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+0.0135 	EXP 	New trial (rep=0, index=0): None
+0.0136 	EXP 	window1: mouseVisible = True
+0.0165 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=337, pos=array([ 0.10408974, -0.0760839 ]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0165 	EXP 	window1: mouseVisible = True
+0.0189 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=64, pos=array([0.10614744, 0.22511207]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0190 	EXP 	window1: mouseVisible = True
+0.0203 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=178, pos=array([-0.36965202, -0.20620038]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0204 	EXP 	window1: mouseVisible = True
+0.0217 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=101, pos=array([ 0.39064201, -0.14234045]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0218 	EXP 	window1: mouseVisible = True
+0.0231 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=63, pos=array([-0.00513119,  0.25686391]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0314 	WARNING 	t of last frame was 22.08ms (=1/45)
+0.0314 	EXP 	distr: autoDraw = True
+0.0314 	EXP 	distr: autoDraw = True
+0.0314 	EXP 	distr: autoDraw = True
+0.0314 	EXP 	distr: autoDraw = True
+0.0314 	EXP 	distr: autoDraw = True
+0.0314 	EXP 	target: autoDraw = True
+0.0314 	EXP 	fixation: autoDraw = True
+2.5470 	DATA 	Mouse: Left button down, pos=(234,47)
+2.5474 	DATA 	Mouse:  Left button up, pos=(234,47)
+2.7055 	DATA 	Mouse: Left button down, pos=(234,47)
+2.7058 	DATA 	Mouse:  Left button up, pos=(234,47)
+5.0970 	DATA 	Mouse: Left button down, pos=(234,47)
+5.0973 	DATA 	Mouse:  Left button up, pos=(234,47)
+5.2531 	DATA 	Mouse: Left button down, pos=(234,47)
+5.2534 	DATA 	Mouse:  Left button up, pos=(234,47)
+8.3999 	DATA 	Mouse: Left button down, pos=(222,41)
+8.4003 	DATA 	Mouse:  Left button up, pos=(222,41)
+8.5531 	DATA 	Mouse: Left button down, pos=(222,41)
+8.5534 	DATA 	Mouse:  Left button up, pos=(222,41)
+8.6662 	DATA 	Mouse: Left button down, pos=(222,41)
+8.6711 	EXP 	New trial (rep=1, index=0): None
+8.6712 	EXP 	window1: mouseVisible = True
+8.6728 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=234, pos=array([-0.08100872,  0.45065918]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6729 	EXP 	window1: mouseVisible = True
+8.6743 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=328, pos=array([-0.40382881, -0.26843609]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6744 	EXP 	window1: mouseVisible = True
+8.6757 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=119, pos=array([-0.47830017,  0.47261126]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6758 	EXP 	window1: mouseVisible = True
+8.6772 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=122, pos=array([-0.32951431, -0.24600392]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6773 	EXP 	window1: mouseVisible = True
+8.6787 	EXP 	Created distr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='distr', opacity=1.0, ori=354, pos=array([-0.02458245,  0.42722415]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6842 	EXP 	target: autoDraw = False
+8.6842 	EXP 	fixation: autoDraw = False
+8.6842 	EXP 	distr: autoDraw = False
+8.6842 	EXP 	distr: autoDraw = False
+8.6842 	EXP 	distr: autoDraw = False
+8.6842 	EXP 	distr: autoDraw = False
+8.6842 	EXP 	distr: autoDraw = False
+8.6842 	EXP 	distr: autoDraw = True
+8.6842 	EXP 	distr: autoDraw = True
+8.6842 	EXP 	distr: autoDraw = True
+8.6842 	EXP 	distr: autoDraw = True
+8.6842 	EXP 	distr: autoDraw = True
+8.6842 	EXP 	target: autoDraw = True
+8.6842 	EXP 	fixation: autoDraw = True
+8.7029 	DATA 	Mouse:  Left button up, pos=(222,41)
+10.2664 	DATA 	Mouse: Left button down, pos=(658,167)
+10.2667 	DATA 	Mouse:  Left button up, pos=(658,167)
+10.4304 	DATA 	Mouse: Left button down, pos=(658,167)
+10.4307 	DATA 	Mouse:  Left button up, pos=(658,167)
+11.5863 	DATA 	Mouse: Left button down, pos=(658,167)
+11.5866 	DATA 	Mouse:  Left button up, pos=(658,167)
+11.7498 	DATA 	Mouse: Left button down, pos=(658,167)
+11.7501 	DATA 	Mouse:  Left button up, pos=(658,167)
+14.5137 	DATA 	Mouse: Left button down, pos=(658,167)
+14.5141 	DATA 	Mouse:  Left button up, pos=(658,167)
+16.7887 	DATA 	Keypress: escape
+16.9306 	EXP 	visual search task : status = STOPPED
+16.9334 	EXP 	target: autoDraw = False
+16.9334 	EXP 	distr: autoDraw = False
+16.9334 	EXP 	distr: autoDraw = False
+16.9334 	EXP 	distr: autoDraw = False
+16.9334 	EXP 	distr: autoDraw = False
+16.9334 	EXP 	distr: autoDraw = False
+16.9334 	EXP 	fixation: autoDraw = False
+16.9348 	EXP 	visual search task : status = STOPPED
+16.9364 	INFO 	saved data to '/Users/haripriya/data/989290_visual search task _2024-10-04_11h46.51.928.csv'
+16.9368 	INFO 	saved data to /Users/haripriya/data/989290_visual search task _2024-10-04_11h46.51.928.psydat
+16.9537 	EXP 	window1: mouseVisible = True
+17.2142 	DEBUG 	Saving data for visual search task  ExperimentHandler
